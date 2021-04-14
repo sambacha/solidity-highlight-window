@@ -1,0 +1,15 @@
+{
+  "name": "shiki-starter-master",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+  "build": "node index.js"
+  },
+  "keywords": [],
+  "author": "sam bacha",
+  "license": "ISC",
+  "dependencies": {
+    "shiki": "git+https://github.com/sambacha/shiki-pkg.git"
+  }
+}
