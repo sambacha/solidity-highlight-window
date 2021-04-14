@@ -14,8 +14,7 @@
 
 ## Generate  
 
-create a `.sol` file
-change:
+create a `.sol` file, then in `index.js` change:
 ```js 
 fs.readFileSync('${your_solidity_file}.sol', 'utf-8'),
 ```
